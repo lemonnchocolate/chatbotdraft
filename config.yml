@@ -1,0 +1,19 @@
+recipe: default.v1
+
+assistant_id: 20251203-113150-obvious-image
+
+language: en
+
+pipeline:
+  - name: WhitespaceTokenizer
+  - name: RegexFeaturizer
+  - name: DIETClassifier
+    epochs: 100
+  - name: FallbackClassifier
+    threshold: 0.4
+
+policies:
+  - name: RulePolicy
+    core_fallback_action_name: "action_llama_explain"
+    core_fallback_threshold: 0.4
+    enable_fallback_prediction: true

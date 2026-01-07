@@ -1,0 +1,22 @@
+version: "3.1"
+
+rules:
+  - rule: Greet user
+    steps:
+      - intent: greet
+      - action: utter_greet
+
+  - rule: Say goodbye
+    steps:
+      - intent: goodbye
+      - action: utter_goodbye
+
+  - rule: Fallback to Ollama
+    steps:
+      - intent: nlu_fallback
+      - action: action_llama_explain
+
+  - rule: Answer user's question
+    steps:
+      - intent: ask_question
+      - action: action_llama_explain

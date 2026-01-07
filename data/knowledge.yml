@@ -1,0 +1,300 @@
+# =====================================================
+# HUBI IDENTITY & INTRO
+# =====================================================
+
+hubi_intro: |
+  Hello 👋 I am Hubi.
+  Hubi is a smart application that provides information and guidance about construction, urban planning, building permits, and home maintenance services.
+
+hubi_name: |
+  My name is Hubi.
+
+hubi_identity: |
+  Hubi is your digital assistant for construction, housing, and urban development procedures.
+
+hubi_goal: |
+  Hubi aims to simplify construction-related procedures and help users understand legal and technical requirements.
+
+hubi_target_users: |
+  Hubi is designed for citizens, property owners, engineers, contractors, and anyone involved in construction or home maintenance.
+
+hubi_supported_topics: |
+  Hubi provides information about building permits, division certificates, conformity certificates, construction laws, and maintenance guidance.
+
+hubi_language_support: |
+  Hubi can understand and respond to users in multiple languages.
+
+hubi_limitations: |
+  Hubi provides guidance and information but does not replace official authorities, engineers, or architects.
+
+# =====================================================
+# GENERAL CONSTRUCTION & URBAN PLANNING
+# =====================================================
+
+what_is_construction: |
+  Construction refers to the process of building, modifying, or renovating structures such as houses, buildings, or infrastructure.
+
+what_is_urban_planning: |
+  Urban planning regulates land use, building organization, and development according to approved plans.
+
+why_urban_planning_is_important: |
+  Urban planning ensures safety, environmental protection, and organized development.
+
+difference_between_construction_and_urbanism: |
+  Construction focuses on building structures, while urbanism regulates where and how they are built.
+
+what_is_land_use: |
+  Land use defines how a specific land area can be legally used, such as residential, commercial, or industrial.
+
+what_is_building_regulation: |
+  Building regulations are legal rules that control construction safety, design, and usage.
+
+# =====================================================
+# LAW 15-19
+# =====================================================
+
+law_15_19_definition: |
+  Executive Decree 15-19 defines the procedures for preparing and delivering urban planning permits.
+
+law_15_19_date: |
+  Executive Decree 15-19 was issued on January 25, 2015.
+
+law_15_19_scope: |
+  Law 15-19 applies to building permits, division certificates, and conformity certificates.
+
+law_15_19_objective: |
+  The objective of Law 15-19 is to regulate construction activities and ensure legal compliance.
+
+law_15_19_authority: |
+  Law 15-19 is enforced by municipalities, wilayas, and the Ministry of Housing and Urban Development.
+
+# =====================================================
+# BUILDING PERMIT (CONSTRUCTION PERMIT)
+# =====================================================
+
+building_permit_definition: |
+  A building permit is an official authorization allowing the construction or modification of a building.
+
+building_permit_subject: |
+  Construction or modification of a building regardless of its location.
+
+building_permit_applicant: |
+  The application can be submitted by the owner, legal representative, authorized tenant, or concerned public body.
+
+building_permit_application_form: |
+  The building permit request form must be completed and signed by the applicant.
+
+building_permit_required_documents: |
+  The application must be supported by ownership documents, authorization, or administrative allocation documents.
+
+building_permit_ownership_proof: |
+  Proof may include a property title, power of attorney, or administrative allocation decision.
+
+building_permit_legal_entity: |
+  If the owner is a legal entity, a copy of the company’s statutes is required.
+
+building_permit_admin_file: |
+  The administrative file includes subdivision permit references and exploitation certificates when applicable.
+
+building_permit_architectural_file: |
+  The architectural file includes site plans, mass plans, floor plans, and descriptive reports.
+
+building_permit_arch_drawings: |
+  Drawings must show internal layouts, technical rooms, and building volumes.
+
+building_permit_work_description: |
+  A descriptive and cost-estimation report of works and deadlines must be included.
+
+building_permit_joint_construction: |
+  Joint construction documents are required when applicable.
+
+building_permit_technical_file: |
+  The technical file is mandatory except for individual housing projects.
+
+building_permit_workers_capacity: |
+  The technical note must specify the number of workers and occupancy capacity.
+
+building_permit_materials: |
+  Construction materials and roof systems must be clearly described.
+
+building_permit_utilities: |
+  Electrical, gas, heating, water, sanitation, and ventilation systems must be explained.
+
+building_permit_water_networks: |
+  Wastewater drainage network plans must be provided.
+
+building_permit_fire_safety: |
+  Fire protection and emergency systems must be specified.
+
+building_permit_environmental_impact: |
+  Harmful liquid, solid, or gaseous materials must be declared.
+
+building_permit_noise_level: |
+  Noise levels must be indicated for industrial and commercial buildings.
+
+building_permit_civil_engineering_study: |
+  A civil engineering study prepared and signed by a certified engineer is required.
+
+building_permit_structural_plans: |
+  Structural plans must match the architectural scale.
+
+building_permit_submission: |
+  Applications are submitted to the President of the Municipal People’s Assembly.
+
+building_permit_copies_required: |
+  Three copies are required for individual housing, eight for other projects.
+
+building_permit_receipt: |
+  A submission receipt is issued on the same day after verification.
+
+building_permit_review_process: |
+  The application is reviewed by the municipal or wilaya one-stop office.
+
+building_permit_delivery_deadline: |
+  The building permit is delivered within 20 days of submission.
+
+building_permit_validity: |
+  The permit becomes void if construction is not completed within the authorized timeframe.
+
+building_permit_appeal_procedure: |
+  Applicants may appeal to the wilaya or the Ministry in case of refusal or no response.
+
+# =====================================================
+# DIVISION CERTIFICATE
+# =====================================================
+
+division_certificate_definition: |
+  A division certificate authorizes the division of a built property into two or more parts.
+
+division_certificate_subject: |
+  Determining the conditions for dividing built real estate.
+
+division_certificate_applicant: |
+  The request must be submitted by the owner or their legal representative.
+
+division_certificate_required_documents: |
+  Required documents include ownership title, authorization, or legal statutes.
+
+division_certificate_site_plan: |
+  A site plan is mandatory.
+
+division_certificate_guidance_plans: |
+  Guidance plans must show land boundaries, areas, buildings, and networks.
+
+division_certificate_land_allocation: |
+  The proposed land division and land-use allocation must be specified.
+
+division_certificate_legal_justification: |
+  Existing buildings must be legally justified by ownership or conformity certificates.
+
+division_certificate_submission: |
+  The application must be submitted in five copies to the municipality.
+
+division_certificate_review: |
+  The municipal one-stop office reviews the application.
+
+division_certificate_delivery_deadline: |
+  The division certificate is delivered within one month.
+
+division_certificate_validity: |
+  The division certificate is valid for three years.
+
+division_certificate_appeal: |
+  Appeals may be submitted to the wilaya and then to the Ministry.
+
+# =====================================================
+# CONFORMITY CERTIFICATE
+# =====================================================
+
+conformity_certificate_definition: |
+  A conformity certificate confirms that completed works comply with the issued building permit.
+
+conformity_certificate_required_documents: |
+  The file includes a declaration of completion of works.
+
+conformity_certificate_ctc_requirement: |
+  For public or collective buildings, a CTC delivery report is required.
+
+conformity_certificate_submission: |
+  Two copies must be submitted to the municipality.
+
+conformity_certificate_review: |
+  The conformity inspection committee reviews the file.
+
+conformity_certificate_delivery_deadline: |
+  The certificate is delivered within 23 days after inspection.
+
+conformity_certificate_appeal: |
+  Appeals follow the same wilaya and ministry procedures.
+
+# =====================================================
+# TECHNICAL & PROFESSIONAL ENTITIES
+# =====================================================
+
+what_is_ctc: |
+  CTC is the National Technical Control Authority for Buildings.
+
+role_of_architect: |
+  Architects design buildings and ensure compliance with regulations.
+
+role_of_civil_engineer: |
+  Civil engineers ensure structural safety and stability.
+
+role_of_municipality: |
+  Municipalities manage and deliver construction-related permits.
+
+role_of_wilaya: |
+  Wilayas supervise and intervene in appeal procedures.
+
+# =====================================================
+# HOUSING & MAINTENANCE
+# =====================================================
+
+individual_housing_definition: |
+  Individual housing is a residential building for a single family.
+
+collective_housing_definition: |
+  Collective housing accommodates multiple families.
+
+public_building_definition: |
+  Public buildings receive the public and must meet safety standards.
+
+home_maintenance_definition: |
+  Home maintenance includes repairs and upkeep of residential systems.
+
+electrical_maintenance: |
+  Electrical maintenance ensures safety and system reliability.
+
+plumbing_maintenance: |
+  Plumbing maintenance prevents leaks and water damage.
+
+heating_maintenance: |
+  Heating system maintenance improves efficiency and safety.
+
+renovation_definition: |
+  Renovation improves or restores existing buildings.
+
+difference_between_renovation_and_construction: |
+  Renovation upgrades existing buildings, construction creates new ones.
+
+# =====================================================
+# USER SUPPORT & FAQ
+# =====================================================
+
+who_are_you: |
+  I am Hubi, your assistant for construction and housing services.
+
+can_you_help_with_permits: |
+  Yes, I can guide you through construction permit procedures.
+
+can_you_replace_authorities: |
+  No, I do not replace official authorities or professionals.
+
+what_if_no_response_from_authority: |
+  If there is no response, you may submit an official appeal.
+
+where_to_submit_requests: |
+  Requests are usually submitted to the local municipality.
+
+fallback_help: |
+  Ask me anything related to construction, permits, housing, or maintenance and I will try to help.

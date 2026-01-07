@@ -1,0 +1,31 @@
+version: "3.1"
+
+nlu:
+  - intent: ask_question
+    examples: |
+      - What is a foundation in building construction?  
+      - Explain the types of concrete used in construction  
+      - What does a structural engineer do?  
+      - Can you tell me about load-bearing walls?  
+      - Define scaffolding and its use  
+      - How is a roof truss designed?  
+      - What are the main construction materials?  
+      - Explain the process of bricklaying  
+      - What is the purpose of insulation in buildings?  
+      - How do you calculate building load?
+
+  - intent: greet
+    examples: |
+      - Hi  
+      - Hello  
+      - Hey  
+      - Good morning  
+      - Hey there
+
+  - intent: goodbye
+    examples: |
+      - Bye  
+      - Goodbye  
+      - See you later  
+      - I'm leaving  
+      - Talk to you later
